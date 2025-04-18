@@ -4,6 +4,9 @@
   <p>Conectando pessoas por meio da Inteligência Artificial e da LIBRAS</p>
 </div>
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange)]()
+
 ---
 
 ### 🌐 Sobre o Projeto
