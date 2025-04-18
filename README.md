@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/logo-help-chat.png" width="150" alt="Help Chat Logo" />
+  <img src="https://github.com/paulofreitas-py/Help-Chat/blob/main/img/logo1.png" width="150" alt="Help Chat Logo" />
   <h1>Help Chat 🤖🧏‍♂️</h1>
   <p>Conectando pessoas por meio da Inteligência Artificial e da LIBRAS</p>
 </div>
