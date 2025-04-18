@@ -26,6 +26,14 @@ Faz parte do ecossistema do projeto social [Help AI](https://help-ai.netlify.app
 - Backend escalável com API RESTful
 
 ---
+### ✨ Roadmap
+
+- [x] Protótipo inicial com chat
+- [ ] Integração com avatar LIBRAS
+- [ ] Reconhecimento de sinais via webcam
+- [ ] Testes com usuários reais
+- [ ] Deploy final com acessibilidade certificada
+
 
 ### 🏗️ Arquitetura do Projeto
 
@@ -35,3 +43,7 @@ help-chat/
 ├── server/         # Backend com Node.js + Express
 ├── README.md
 └── ...
+
+
+
+
